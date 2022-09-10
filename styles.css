@@ -1,0 +1,48 @@
+body {
+  background-color: #E0E0E2;
+}
+
+h1 {
+  color: #721817;
+}
+
+h2 {
+  color: #721817;
+}
+
+a {
+  color: #721817;
+}
+
+a:hover {
+  color: black;
+}
+
+h2 > span {
+  color: #FA9F42;
+  font-size: 0.75em;
+}
+
+table, th, td {
+  margin: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.uppercase-text {
+  text-transform: uppercase;
+}
+
+#logo {
+  display: block;
+  margin: auto;
+}
+
+#copyright {
+  padding-top: 12px;
+  font-size: 0.75em;
+}
